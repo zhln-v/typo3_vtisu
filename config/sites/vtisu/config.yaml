@@ -1,0 +1,19 @@
+base: 'https://engine.ddev.site/api'
+dependencies:
+  - zhln/vtisu
+  - friendsoftypo3/headless
+frontendBase: ''
+headless: 1
+languages:
+  -
+    title: Russian
+    enabled: true
+    languageId: 0
+    base: /
+    locale: ru_RU.utf8
+    navigationTitle: Russian
+    flag: ru
+    hreflang: ''
+    websiteTitle: ''
+rootPageId: 1
+websiteTitle: ''
